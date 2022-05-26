@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react-movi-app/static/js/main.7b542ba9.js",
-    "index.html": "/react-movi-app/index.html",
-    "main.7b542ba9.js.map": "/react-movi-app/static/js/main.7b542ba9.js.map"
+    "main.js": "/react-movie-app-ver2/static/js/main.7b542ba9.js",
+    "index.html": "/react-movie-app-ver2/index.html",
+    "main.7b542ba9.js.map": "/react-movie-app-ver2/static/js/main.7b542ba9.js.map"
   },
   "entrypoints": [
     "static/js/main.7b542ba9.js"
