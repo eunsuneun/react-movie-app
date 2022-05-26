@@ -10,7 +10,6 @@ const Detail = () => {
     ).json();
     setMovie(json);
     setLoading(false);
-    console.log(movie);
   };
   useEffect(() => {
     getMovie();
